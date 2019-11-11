@@ -63,9 +63,9 @@
 .imageUpper {
   position: absolute;
   right: 0;
-
+overflow: hidden;
   .image {
-    width: 100% !important;
+    width: 120% !important;
     top:0;
     overflow: hidden;
 
